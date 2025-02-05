@@ -85,3 +85,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Demo📱:
 [Ver Demo en Vivo](https://incomparable-salmiakki-6110cb.netlify.app/)
 
+By: [Keury David https://github.com/Keurydl]:![image](https://github.com/user-attachments/assets/73f9de85-2bbc-42d6-88d7-cfafb7de7b11)
+)
+
