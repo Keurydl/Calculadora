@@ -80,7 +80,7 @@ Contributions are welcome! If you want to improve this project, feel free to ope
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
 
 ## Demo📱:
 [Ver Demo en Vivo](https://incomparable-salmiakki-6110cb.netlify.app/)
